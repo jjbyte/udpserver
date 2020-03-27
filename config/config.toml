@@ -1,0 +1,8 @@
+[common]
+  Addr = "172.16.0.17:8080"
+
+[redis]
+  Addr = "172.16.0.17:6379"
+  Password = "Haha1234"
+  DB = 0
+
